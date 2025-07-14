@@ -9,7 +9,7 @@ The repository contains:
 - Two files ("Analisi e estrazione rete_modulare") which contain the code to implement network analysis on the produced datasets
 - A "Partite" folder with the datasets produced with the GUI
 - A "Output" folder with the plots, xlsx and gefx results of the analysis
-- A "Old" folder with the first implementations
+- A "Old" folder with the initial implementations
 
 
 ***Data Collection and Dataset Production using Speech Recognition***
