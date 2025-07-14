@@ -1,7 +1,7 @@
 **Football Match Analysis adopting Network Analysis techniques and frameworks**
 
 This project aims at studying tactical plays and coaches' strategies in football by leveraging network analysis.
-The project focuses on SSC Napoli, covering matches in two different seasons which both ended with the team winning the Scudetto, but with very different journeys and tactics under two different coaches (Luciano Spalletti in 2022-23, Antonio Conte in 2024-25).
+The project focuses on SSC Napoli, covering matches in two different seasons, both ended with the team winning the Scudetto, but with very different journeys and tactics under two different coaches (Luciano Spalletti in 2022-23, Antonio Conte in 2024-25).
 The repository contains:
 
 - Two csv files with SSC Napoli's squad during the two seasons
@@ -15,15 +15,15 @@ The repository contains:
 ***Data Collection and Dataset Production using Speech Recognition***
 
 
-The data collected consists in two different adjacency matrices for each match, one for the first half and one for the second. Using speech recognition while watching the matches, each pass during the game by a SSC Napoli player is registered, so that in the adjacency matrix (which is a produced dataset consisting of an excel file) each value m_ij represents the number of passes player i directed to player j.
-As a result, the graph used in the analysis are both weighted and directed.
+The data collected consists in two different adjacency matrices for each match, one for the first half and one for the second. Using speech recognition while watching the matches, each pass by a SSC Napoli player during the match is registered, so that in the adjacency matrix (which is a produced dataset consisting of an excel file) each value m_ij represents the number of passes player i directed to player j.
+As a result, the graphs used in the analysis are both weighted and directed.
 
 
 ***The Analysis***
 
 
 The analysis relies on the info gathered (number of passes between players) to determine which are the central players in the coach's gameplan, the communities (a.k.a. the group of players strongly connected as frequently exchanging passess between themselves) and the playing roles (obtained using k-means clustering on the network features extracted) which result from the tactics used during the match.
-By collecting results on matches played in different seasons, the difference in the style of playing comes out as very evident.
+By analyzing matches played in different seasons, the difference in the style of playing comes out as very evident.
 The network features extracted and considered to conduct the analysis and to build the clustering process are the following:
 
 - Degree Centrality
