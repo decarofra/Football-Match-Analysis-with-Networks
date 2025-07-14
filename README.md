@@ -1,4 +1,4 @@
-**Football Match Analysis adopting Network Analysis techniques and frameworks**
+**Football Match Analysis adopting Network techniques and frameworks**
 
 This project aims at studying tactical plays and coaches' strategies in football by leveraging network analysis.
 The project focuses on SSC Napoli, covering matches in two different seasons, both ended with the team winning the Scudetto, but with very different journeys and tactics under two different coaches (Luciano Spalletti in 2022-23, Antonio Conte in 2024-25).
