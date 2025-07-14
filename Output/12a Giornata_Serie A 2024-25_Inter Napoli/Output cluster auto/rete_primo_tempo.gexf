@@ -1,0 +1,253 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-07-14">
+    <creator>NetworkX 3.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="DegreeCentrality" type="double" />
+      <attribute id="1" title="InDegreeCentrality" type="double" />
+      <attribute id="2" title="OutDegreeCentrality" type="double" />
+      <attribute id="3" title="BetweennessCentrality" type="double" />
+      <attribute id="4" title="ClusteringCoefficient" type="double" />
+      <attribute id="5" title="Community" type="long" />
+      <attribute id="6" title="FunctionalCluster" type="long" />
+    </attributes>
+    <nodes>
+      <node id="Meret" label="Meret">
+        <attvalues>
+          <attvalue for="0" value="0.8461538461538463" />
+          <attvalue for="1" value="0.38461538461538464" />
+          <attvalue for="2" value="0.46153846153846156" />
+          <attvalue for="3" value="0.016025641025641024" />
+          <attvalue for="4" value="0.18516500534974398" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="Di Lorenzo" label="Di Lorenzo">
+        <attvalues>
+          <attvalue for="0" value="1.076923076923077" />
+          <attvalue for="1" value="0.6153846153846154" />
+          <attvalue for="2" value="0.46153846153846156" />
+          <attvalue for="3" value="0.0010683760683760683" />
+          <attvalue for="4" value="0.1700727937051177" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="Buongiorno" label="Buongiorno">
+        <attvalues>
+          <attvalue for="0" value="1.153846153846154" />
+          <attvalue for="1" value="0.5384615384615385" />
+          <attvalue for="2" value="0.6153846153846154" />
+          <attvalue for="3" value="0.040277777777777767" />
+          <attvalue for="4" value="0.16927591720709734" />
+          <attvalue for="5" value="3" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="Gilmour" label="Gilmour">
+        <attvalues>
+          <attvalue for="0" value="1.3076923076923077" />
+          <attvalue for="1" value="0.6153846153846154" />
+          <attvalue for="2" value="0.6923076923076923" />
+          <attvalue for="3" value="0.05352564102564102" />
+          <attvalue for="4" value="0.14950414724310124" />
+          <attvalue for="5" value="3" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="McTominay" label="McTominay">
+        <attvalues>
+          <attvalue for="0" value="1.153846153846154" />
+          <attvalue for="1" value="0.6153846153846154" />
+          <attvalue for="2" value="0.5384615384615385" />
+          <attvalue for="3" value="0.0673076923076923" />
+          <attvalue for="4" value="0.1405289481911005" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="Lukaku" label="Lukaku">
+        <attvalues>
+          <attvalue for="0" value="0.8461538461538463" />
+          <attvalue for="1" value="0.6153846153846154" />
+          <attvalue for="2" value="0.23076923076923078" />
+          <attvalue for="3" value="0.021901709401709397" />
+          <attvalue for="4" value="0.17043002555461959" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="Rrahmani" label="Rrahmani">
+        <attvalues>
+          <attvalue for="0" value="1.2307692307692308" />
+          <attvalue for="1" value="0.5384615384615385" />
+          <attvalue for="2" value="0.6923076923076923" />
+          <attvalue for="3" value="0.04017094017094017" />
+          <attvalue for="4" value="0.15506175165569702" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="Olivera" label="Olivera">
+        <attvalues>
+          <attvalue for="0" value="1.153846153846154" />
+          <attvalue for="1" value="0.5384615384615385" />
+          <attvalue for="2" value="0.6153846153846154" />
+          <attvalue for="3" value="0.02158119658119658" />
+          <attvalue for="4" value="0.1836045763962076" />
+          <attvalue for="5" value="3" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="Simeone" label="Simeone">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="-1" />
+          <attvalue for="6" value="-1" />
+        </attvalues>
+      </node>
+      <node id="Politano" label="Politano">
+        <attvalues>
+          <attvalue for="0" value="0.8461538461538463" />
+          <attvalue for="1" value="0.46153846153846156" />
+          <attvalue for="2" value="0.38461538461538464" />
+          <attvalue for="3" value="0.024572649572649572" />
+          <attvalue for="4" value="0.15538387367087936" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="Ngonge" label="Ngonge">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="-1" />
+          <attvalue for="6" value="-1" />
+        </attvalues>
+      </node>
+      <node id="Lobotka" label="Lobotka">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="-1" />
+          <attvalue for="6" value="-1" />
+        </attvalues>
+      </node>
+      <node id="Kvaratskhelia" label="Kvaratskhelia">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="0.46153846153846156" />
+          <attvalue for="2" value="0.5384615384615385" />
+          <attvalue for="3" value="0.015384615384615384" />
+          <attvalue for="4" value="0.1916774082813992" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="Anguissa" label="Anguissa">
+        <attvalues>
+          <attvalue for="0" value="1.3846153846153846" />
+          <attvalue for="1" value="0.6153846153846154" />
+          <attvalue for="2" value="0.7692307692307693" />
+          <attvalue for="3" value="0.14294871794871794" />
+          <attvalue for="4" value="0.1288619217871044" />
+          <attvalue for="5" value="1" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Meret" target="Di Lorenzo" id="0" weight="2" />
+      <edge source="Meret" target="Buongiorno" id="1" weight="2" />
+      <edge source="Meret" target="Gilmour" id="2" weight="4" />
+      <edge source="Meret" target="Lukaku" id="3" weight="1" />
+      <edge source="Meret" target="Rrahmani" id="4" weight="1" />
+      <edge source="Meret" target="Olivera" id="5" weight="6" />
+      <edge source="Di Lorenzo" target="Gilmour" id="6" weight="2" />
+      <edge source="Di Lorenzo" target="McTominay" id="7" weight="2" />
+      <edge source="Di Lorenzo" target="Lukaku" id="8" weight="2" />
+      <edge source="Di Lorenzo" target="Rrahmani" id="9" weight="5" />
+      <edge source="Di Lorenzo" target="Politano" id="10" weight="2" />
+      <edge source="Di Lorenzo" target="Anguissa" id="11" weight="4" />
+      <edge source="Buongiorno" target="Meret" id="12" weight="3" />
+      <edge source="Buongiorno" target="Gilmour" id="13" weight="2" />
+      <edge source="Buongiorno" target="McTominay" id="14" weight="1" />
+      <edge source="Buongiorno" target="Lukaku" id="15" weight="1" />
+      <edge source="Buongiorno" target="Rrahmani" id="16" weight="4" />
+      <edge source="Buongiorno" target="Olivera" id="17" weight="6" />
+      <edge source="Buongiorno" target="Kvaratskhelia" id="18" weight="2" />
+      <edge source="Buongiorno" target="Anguissa" id="19" weight="1" />
+      <edge source="Gilmour" target="Meret" id="20" weight="1" />
+      <edge source="Gilmour" target="Di Lorenzo" id="21" weight="2" />
+      <edge source="Gilmour" target="Buongiorno" id="22" weight="3" />
+      <edge source="Gilmour" target="McTominay" id="23" weight="2" />
+      <edge source="Gilmour" target="Rrahmani" id="24" weight="3" />
+      <edge source="Gilmour" target="Olivera" id="25" weight="4" />
+      <edge source="Gilmour" target="Politano" id="26" weight="1" />
+      <edge source="Gilmour" target="Kvaratskhelia" id="27" weight="2" />
+      <edge source="Gilmour" target="Anguissa" id="28" weight="1" />
+      <edge source="McTominay" target="Di Lorenzo" id="29" weight="1" />
+      <edge source="McTominay" target="Buongiorno" id="30" weight="1" />
+      <edge source="McTominay" target="Gilmour" id="31" weight="1" />
+      <edge source="McTominay" target="Lukaku" id="32" weight="2" />
+      <edge source="McTominay" target="Olivera" id="33" weight="3" />
+      <edge source="McTominay" target="Politano" id="34" weight="2" />
+      <edge source="McTominay" target="Kvaratskhelia" id="35" weight="1" />
+      <edge source="Lukaku" target="McTominay" id="36" weight="3" />
+      <edge source="Lukaku" target="Kvaratskhelia" id="37" weight="5" />
+      <edge source="Lukaku" target="Anguissa" id="38" weight="1" />
+      <edge source="Rrahmani" target="Meret" id="39" weight="3" />
+      <edge source="Rrahmani" target="Di Lorenzo" id="40" weight="4" />
+      <edge source="Rrahmani" target="Buongiorno" id="41" weight="2" />
+      <edge source="Rrahmani" target="Gilmour" id="42" weight="2" />
+      <edge source="Rrahmani" target="McTominay" id="43" weight="2" />
+      <edge source="Rrahmani" target="Lukaku" id="44" weight="3" />
+      <edge source="Rrahmani" target="Olivera" id="45" weight="1" />
+      <edge source="Rrahmani" target="Politano" id="46" weight="2" />
+      <edge source="Rrahmani" target="Anguissa" id="47" weight="2" />
+      <edge source="Olivera" target="Meret" id="48" weight="2" />
+      <edge source="Olivera" target="Di Lorenzo" id="49" weight="2" />
+      <edge source="Olivera" target="Buongiorno" id="50" weight="5" />
+      <edge source="Olivera" target="McTominay" id="51" weight="1" />
+      <edge source="Olivera" target="Lukaku" id="52" weight="4" />
+      <edge source="Olivera" target="Politano" id="53" weight="1" />
+      <edge source="Olivera" target="Kvaratskhelia" id="54" weight="9" />
+      <edge source="Olivera" target="Anguissa" id="55" weight="2" />
+      <edge source="Politano" target="Di Lorenzo" id="56" weight="2" />
+      <edge source="Politano" target="Gilmour" id="57" weight="1" />
+      <edge source="Politano" target="Lukaku" id="58" weight="3" />
+      <edge source="Politano" target="Rrahmani" id="59" weight="1" />
+      <edge source="Politano" target="Anguissa" id="60" weight="2" />
+      <edge source="Kvaratskhelia" target="Di Lorenzo" id="61" weight="1" />
+      <edge source="Kvaratskhelia" target="Buongiorno" id="62" weight="1" />
+      <edge source="Kvaratskhelia" target="Gilmour" id="63" weight="2" />
+      <edge source="Kvaratskhelia" target="McTominay" id="64" weight="5" />
+      <edge source="Kvaratskhelia" target="Rrahmani" id="65" weight="1" />
+      <edge source="Kvaratskhelia" target="Olivera" id="66" weight="2" />
+      <edge source="Kvaratskhelia" target="Anguissa" id="67" weight="4" />
+      <edge source="Anguissa" target="Meret" id="68" weight="1" />
+      <edge source="Anguissa" target="Di Lorenzo" id="69" weight="3" />
+      <edge source="Anguissa" target="Buongiorno" id="70" weight="1" />
+      <edge source="Anguissa" target="Gilmour" id="71" weight="2" />
+      <edge source="Anguissa" target="McTominay" id="72" weight="1" />
+      <edge source="Anguissa" target="Lukaku" id="73" weight="2" />
+      <edge source="Anguissa" target="Rrahmani" id="74" weight="1" />
+      <edge source="Anguissa" target="Olivera" id="75" weight="1" />
+      <edge source="Anguissa" target="Politano" id="76" weight="1" />
+      <edge source="Anguissa" target="Kvaratskhelia" id="77" weight="1" />
+    </edges>
+  </graph>
+</gexf>
